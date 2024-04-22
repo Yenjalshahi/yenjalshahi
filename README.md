@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🌱 I’m currently learning .
+  i am also currently starting my engineering work
 
 <!--
 **Yenjalshahi/yenjalshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
